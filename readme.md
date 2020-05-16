@@ -1,5 +1,5 @@
 ## GitHub command cheatsheet for MacOS terminal
-Create a new repository
+Create a new repository and connect local to GitHub
 ``` bash
 mkdir <repoName>
 cd <repoName>
