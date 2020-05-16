@@ -7,5 +7,7 @@ git init
 echo readme > readme.md
 git add .
 git commit -m "type_comment_here"
-curl -u "<your_username>" https:api.github.com/user/repos -d '{"name": "<repoName"}
+curl -u "<your_username>" https://api.github.com/user/repos -d '{"name": "<repoName"}
+git remote add origin https://github.com/<your_username>/<reponame>
+git push -u origin master
 ```
