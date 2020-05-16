@@ -1,6 +1,6 @@
 ## GitHub command cheatsheet for MacOS terminal
 Create a new repository and connect local to GitHub
-```html
+```sh
 mkdir <repoName>
 cd <repoName>
 git init
